@@ -1,4 +1,4 @@
-```markdown
+
 # FREE SERVER
 
 The goal of the free server is to funnel users into one of two outcomes:
@@ -107,4 +107,4 @@ The **member on-ramp** is a new member's first impression of the product/service
 - **Ask for reasons** in the support ticket.
 - If solvable, assist them in resolving the issue.
 - If not, allow them to leave but **note their emails** for future offers.
-```
+
