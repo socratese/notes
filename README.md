@@ -1,9 +1,8 @@
-
 # FREE SERVER
 
 The goal of the free server is to funnel users into one of two outcomes:
 1. Joining the paid server.
-2. Growing the free server community (and therefore leading to more members joining the paid server).
+2. Growing the free server community (leading to more paid server signups).
 
 ## Value Proposition
 
@@ -14,11 +13,11 @@ To grow this community, we will provide the following value:
 - **Competitions**
 - **Showcasing Bandit users' success**
 
-Having Bandit users return to the free server to post their success stories and testimonials creates social proof, which is crucial for convincing others that success is possible for them too.
+Having Bandit users return to the free server to post their success stories and testimonials creates social proof, which is crucial for convincing others that they too can achieve success. **Success stories help users visualize their own potential**, making it easier for them to believe in the product and take action.
 
 ## Community Growth Strategy
 
-The most important factor is maintaining a constant influx of new users. Despite building up 400+ users, once they joined the waitlist, they had no reason to return to the free server, which led to a decline in activity. When new users consistently join, asking when they can be let into the paid server, it creates **hype** and **FOMO (Fear of Missing Out)**.
+Maintaining a constant influx of new users is vital. Despite building up 400+ users, once they joined the waitlist, they had no reason to return to the free server, leading to a decline in activity. Constantly bringing in new members **creates hype and FOMO (Fear of Missing Out)**, ensuring the community stays active and engaged.
 
 ## Affiliates
 
@@ -35,52 +34,66 @@ We can set up affiliate partnerships by allowing interested individuals to open 
 
 ## TODO
 
-- Figure out where to source young content creators to manage TikTok and Instagram accounts.
-- Offer a reward system and gamify the process (e.g., leaderboards).
+- Source young content creators to manage TikTok and Instagram accounts.
+- Gamify the process with leaderboards, offering a reward system to engage members.
 
 ---
 
 # MEMBER ON-RAMP (PAID SERVER)
 
-The **member on-ramp** is a new member's first impression of the product/service. Our goal is to inspire them, show them the potential, and ensure they are not overwhelmed or confused. Based on research and feedback from other owners, here's the flow:
+The **member on-ramp** is a new member's first impression of the product/service. Our goal is to inspire them, show them the potential, and ensure they are not overwhelmed or confused. **Retention begins with the first interaction**, and making a user feel special is crucial. Here’s the flow:
 
 ### Onboarding Flow
 
 1. **Member joins via Whop**.
-   - The only visible channel is `START HERE`.
-   - This channel:
+   - The only visible channel is `START HERE`, which:
      - Welcomes the user.
-     - Explains what Bandit is and emphasizes its exclusivity.
-     - Outlines a **timeline**: The first month focuses on getting $1,000 in free items, with a long-term goal of making thousands passively through sales channels.
-     - Provides a welcome guide with instructions on server use, ordering, and requesting help.
+     - Explains Bandit’s exclusivity.
+     - **Sets expectations** with a timeline: The first month focuses on getting $1,000 in free items, followed by advanced strategies to automate the software and earn thousands passively.
+     - Provides a **clear path** forward, showing them how to achieve success step-by-step. 
+     - Introduces a welcome guide with instructions on using the server, ordering, and requesting help.
 
-2. At the end of the `START HERE` channel, the user reacts to open a ticket with staff.
+2. After reading the `START HERE` guide, the user reacts to open a **ticket** with staff.
    - **Ticket process**:
-     - Reinforce Bandit’s value, inspire the member, and share testimonials.
-     - Understand their goals (e.g., making money, selling on Amazon, personal use).
-     - Based on their experience, assign relevant roles (experienced/newcomer).
-     - Use the ticket for follow-ups, especially after 2 weeks, to ask for reviews on Whop.
+     - Personalize the experience: Find out about the member's goals, whether they want to make money, sell on Amazon, or get personal benefits.
+     - Assign relevant roles based on their experience.
+     - Use the ticket for **follow-ups**, especially after 2 weeks, to ask for reviews on Whop.
+     - Encourage feedback and testimonials to create **social proof**.
 
-3. If a member achieves a **checkout/success**, praise them! Everyone loves recognition, and it encourages them to stay.
+3. **Weekly Guides for the First Four Weeks**:
+   - Week 1: **Getting Started** – Guide them through initial steps, set clear goals, and help them achieve their first success.
+   - Week 2: **Advanced Features** – Introduce more advanced software tools and how to use them efficiently.
+   - Week 3: **Autonomous Workflow** – Show them how to automate the software and save time.
+   - Week 4: **Scaling Success** – Teach them how to scale their success and turn it into consistent income.
+
+4. If a member achieves a **checkout/success**, praise them! **Public recognition** increases their emotional investment in the community, reducing the likelihood of churn.
+
+### Retention-Driven Onboarding Strategy
+
+Our goal is to get members to the **retention point**, where they become loyal fans. We do this by:
+- **Encouraging self-improvement**: Inspire members to believe they can achieve the same success as others. Reinforce that the product works and that they can succeed.
+- **Breaking tasks down**: Simplify their journey. Introduce the software in manageable steps, making it easier for members to engage without feeling overwhelmed.
+- **Personalizing the experience**: Assign roles, check in often, and ensure they know they are part of an exclusive community.
+- **Creating excitement**: The first thing a new member sees after joining should be exciting and hyped up, showcasing the value waiting for them.
+- **Certification Program**: Implement a certification process where members complete levels of training and earn recognition through Discord roles, giving them a sense of accomplishment.
 
 ### Key Steps for Onboarding Success:
 
 1. Welcome the user as an owner/staff.
-2. Assign one staff per ticket to reduce confusion and workload.
-3. Understand their goals (make money, sell on Amazon, etc.).
-4. Reinforce that success is possible (cite examples).
-5. Ensure they believe in the process.
+2. Assign one staff per ticket to avoid confusion and reduce workload.
+3. Understand their goals (e.g., make money, sell on Amazon).
+4. Reinforce that success is possible (cite examples from other users).
+5. Ensure they believe in the process and visualize the **life they can achieve** with your software.
 6. Assess their experience with Discord/bots.
-7. If experienced, assign an appropriate role and check in if needed.
-8. If inexperienced, walk them through basic bot commands and guide usage.
-9. Celebrate every success!
-10. Introduce new features, such as using the private site list in the bot.
-11. Follow up after a week and introduce them to the software.
-12. Provide check-ins during the first week.
-13. Encourage them to seek help when needed, but ensure they’re proactive in using guides.
-14. After their first success, request a testimonial or review.
-15. Assign new roles as they progress.
-16. Maintain open communication through the ticket for ongoing support.
+7. If experienced, assign a role and provide guidance if needed.
+8. If inexperienced, walk them through the bot commands and guides.
+9. **Praise every success** to build momentum.
+10. Introduce new features weekly (e.g., private site lists, advanced techniques).
+11. Follow up after a week to check their progress and introduce new tools.
+12. **Avoid spoon-feeding**: Encourage them to engage with the support channels when needed, but ensure they read the guides.
+13. After their first success, ask for a testimonial or review.
+14. Assign new roles as they progress to recognize their achievements.
+15. Keep communication open through the ticket for ongoing support and potential churn prevention.
 
 ---
 
@@ -97,14 +110,22 @@ The **member on-ramp** is a new member's first impression of the product/service
 
 # CHANNELS & EVENTS (PAID SERVER)
 
-- Add a **gamified leaderboard** for checkouts and total value taken.
-- **Events/Content**: Weekly calls, lessons, tutorials (coordinate with Charles and Jef for planning).
+- Add a **gamified leaderboard** for checkouts and total value earned.
+- **Events/Content**: Weekly calls, lessons, tutorials. Coordinate with Charles and Jef for planning.
+- Use member success stories as **social proof** during the onboarding phase to help new members visualize their own success.
 
 ---
 
 # CHURN AND CANCELLED USERS
 
 - **Ask for reasons** in the support ticket.
-- If solvable, assist them in resolving the issue.
-- If not, allow them to leave but **note their emails** for future offers.
+- If solvable, assist them in resolving the issue. **Use pain of disconnect benefits** to show them what they lose by cancelling.
+- If not resolvable, allow them to leave but **note their emails** for future offers.
 
+### Member Save Sequence
+
+1. Create a **churn prevention flow** where you personally check in with members before they cancel.
+2. Use open tickets to understand their challenges and offer solutions.
+3. **Resell the benefits** of the software and show them how their problem can be solved.
+4. Provide examples of success stories from similar users.
+5. If all else fails, collect feedback and keep them in the loop for future deals or updates.
